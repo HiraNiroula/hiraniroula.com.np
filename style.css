@@ -59,7 +59,8 @@ nav .nav-links a {
 
 nav .nav-links a:hover,
 nav .nav-links a.selected {
-  color: #303f9f;
+  /*color: #8a2be2;*/
+  color: #2be27d;
 }
 
 .main {
@@ -124,7 +125,7 @@ nav .nav-links a.selected {
 }
 
 .recent .header a {
-  color: #303f9f;
+  color: #2be27d;
 }
 
 .recent .posts {
