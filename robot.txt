@@ -1,0 +1,17 @@
+# robots.txt for hiraniroula.com.np
+
+# Allow all user agents to crawl the site
+User-agent: *
+# Disallow: /private/    # Restrict access to private folders
+# Disallow: /temp/       # Restrict access to temporary folders
+Allow: /
+
+# Specify the location of the sitemap
+Sitemap: https://hiraniroula.com.np/sitemap.xml
+
+# Crawl delay for specific bots (optional)
+# User-agent: Googlebot
+# Crawl-delay: 5
+
+# User-agent: Bingbot
+# Crawl-delay: 10
